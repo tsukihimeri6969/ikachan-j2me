@@ -1,6 +1,6 @@
-# Ikachan (J2ME / Nokia 6300)
+# Ikachan (J2ME)
 
-A port of Studio Pixel's *Ikachan* built for CLDC 1.1 and MIDP 2.0 devices such as the Nokia 6300.
+A port of Studio Pixel's *Ikachan* built for CLDC 1.1 and MIDP 2.0 devices such as the Nokia 6300. (Japanese release Only)
 
 ## Features
 
